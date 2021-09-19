@@ -87,7 +87,7 @@ void MudaPosic2 (){
               ),
             SizedBox(height: MediaQuery.of(context).size.height * 0.30),
             SizedBox(height: 1, child: Container(color: Colors.black,),),
-            SizedBox(height: MediaQuery.of(context).size.height * 0.10),
+            SizedBox(height: MediaQuery.of(context).size.height * 0.08),
             Text(pergunta, style: const TextStyle(fontSize: 20)
             )], 
           ),
